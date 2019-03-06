@@ -355,5 +355,27 @@
         }
       ]
     }
-  ]
+  ],
+  "options": [
+    {
+      "id": 1,
+      "name": "StreamOn"
+    },
+    {
+      "id": 2,
+      "name": "Installations Paket"
+    },
+    {
+      "id": 3,
+      "name": "MagentaTV Big"
+    },
+    {
+      "id": 4,
+      "name": "StreamOn Gaming"
+    },
+    {
+      "id": 5,
+      "name": "Data S"
+    }
+  ] 
 }
