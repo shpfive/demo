@@ -1,5 +1,5 @@
 {
-  "mobile-tariffs":[
+  "mobile-tariffs": [
     {
       "id": 1,
       "name": "Magenta<b>Mobil</b> XS",
@@ -32,14 +32,23 @@
     }
   ],
   "smartphones": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    },
+    {
+      "id": 2,
+      "body": "some comment",
+      "postId": 1
+    }
   ],
   "recommended-smartphones": [
     {
       "id": 1,
       "name": "Apple iPhone X",
       "slug": "apple-iphone-x",
+      "description": "5,8 Zoll Super Retina Display. Weiterentwickeltes Face ID. Der intelligenteste, leistungsstärkste Smartphone Chip. Und ein revolutionäres Dual-Kamerasystem. Das iPhone XS ist alles, was du am iPhone liebst, und mehr.",
       "images": {
         "image_small": "https://telekom.payback.de/telekom/images/produkte/Smartphones/apple-iphone-x-spacegrey-290x340.png",
         "image_medium": "https://telekom.payback.de/telekom/images/produkte/Smartphones/apple-iphone-x-spacegrey-290x340.png",
@@ -382,5 +391,5 @@
       "id": 5,
       "name": "Data S"
     }
-  ] 
+  ]
 }
