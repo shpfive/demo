@@ -1,14 +1,359 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
+  "mobile-tariffs":[
+    {
+      "id": 1,
+      "name": "Magenta<b>Mobil</b> XS",
+      "acronym": "XS",
+      "data": "750 MB"
+    },
+    {
+      "id": 2,
+      "name": "Magenta<b>Mobil</b> S",
+      "acronym": "S",
+      "data": "2,5 GB"
+    },
+    {
+      "id": 3,
+      "name": "Magenta<b>Mobil</b> M",
+      "acronym": "M",
+      "data": "5 GB"
+    },
+    {
+      "id": 4,
+      "name": "Magenta<b>Mobil</b> L",
+      "acronym": "L",
+      "data": "10 GB"
+    },
+    {
+      "id": 5,
+      "name": "Magenta<b>Mobil</b> XL",
+      "acronym": "XL",
+      "data": "unbegrenzt"
+    }
   ],
-  "comments": [
+  "smartphones": [
     { "id": 1, "body": "some comment", "postId": 1 },
     { "id": 2, "body": "some comment", "postId": 1 }
   ],
-  "profile": {
-    "name": "typicode"
-  }
+  "recommended-smartphones": [
+    {
+      "id": 1,
+      "name": "Apple iPhone X",
+      "images": {
+        "image_small": "https://telekom.payback.de/telekom/images/produkte/Smartphones/apple-iphone-x-spacegrey-290x340.png",
+        "image_medium": "https://telekom.payback.de/telekom/images/produkte/Smartphones/apple-iphone-x-spacegrey-290x340.png",
+        "image_big": "https://telekom.payback.de/telekom/images/produkte/Smartphones/apple-iphone-x-spacegrey-290x340.png",
+        "alt": "bla"
+      },
+      "colors": [
+        {
+          "name": "red",
+          "code": "red",
+          "storages": [
+            {
+              "amount": 64,
+              "unit": "GB",
+              "groupId": 11
+            },
+            {
+              "amount": 128,
+              "unit": "GB",
+              "groupId": 12
+            },
+            {
+              "amount": 256,
+              "unit": "GB",
+              "groupId": 13
+            }
+          ]
+        },
+        {
+          "name": "blue",
+          "code": "blue",
+          "storages": [
+            {
+              "amount": 128,
+              "unit": "GB",
+              "groupId": 14
+            },
+            {
+              "amount": 256,
+              "unit": "GB",
+              "groupId": 15
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Apple iPhone XS",
+      "images": {
+        "image_small": "https://telekom.payback.de/telekom/images/produkte/Smartphones/iphone-xs-spacegrey-290x340.png",
+        "image_medium": "https://telekom.payback.de/telekom/images/produkte/Smartphones/iphone-xs-spacegrey-290x340.png",
+        "image_big": "https://telekom.payback.de/telekom/images/produkte/Smartphones/iphone-xs-spacegrey-290x340.png",
+        "alt": "bla"
+      },
+      "colors": [
+        {
+          "name": "green",
+          "code": "green",
+          "storages": [
+            {
+              "amount": 64,
+              "unit": "GB",
+              "groupId": 21
+            },
+            {
+              "amount": 128,
+              "unit": "GB",
+              "groupId": 22
+            },
+            {
+              "amount": 256,
+              "unit": "GB",
+              "groupId": 23
+            }
+          ]
+        },
+        {
+          "name": "black",
+          "code": "black",
+          "storages": [
+            {
+              "amount": 128,
+              "unit": "GB",
+              "groupId": 24
+            },
+            {
+              "amount": 256,
+              "unit": "GB",
+              "groupId": 25
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Apple iPhone XR",
+      "images": {
+        "image_small": "https://telekom.payback.de/telekom/images/produkte/Smartphones/apple-iphone-xr-blue-290x340.png",
+        "image_medium": "https://telekom.payback.de/telekom/images/produkte/Smartphones/apple-iphone-xr-blue-290x340.png",
+        "image_big": "https://telekom.payback.de/telekom/images/produkte/Smartphones/apple-iphone-xr-blue-290x340.png",
+        "alt": "bla"
+      },
+      "colors": [
+        {
+          "name": "red",
+          "code": "red",
+          "storages": [
+            {
+              "amount": 64,
+              "unit": "GB",
+              "groupId": 31
+            },
+            {
+              "amount": 128,
+              "unit": "GB",
+              "groupId": 32
+            },
+            {
+              "amount": 256,
+              "unit": "GB",
+              "groupId": 33
+            }
+          ]
+        },
+        {
+          "name": "yellow",
+          "code": "yellow",
+          "storages": [
+            {
+              "amount": 128,
+              "unit": "GB",
+              "groupId": 34
+            },
+            {
+              "amount": 256,
+              "unit": "GB",
+              "groupId": 35
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Samsung Galaxy S10",
+      "images": {
+        "image_small": "https://telekom.payback.de/telekom/images/produkte/Smartphones/samsung-galaxy-s10-prism-white-290x340.png",
+        "image_medium": "https://telekom.payback.de/telekom/images/produkte/Smartphones/samsung-galaxy-s10-prism-white-290x340.png",
+        "image_big": "https://telekom.payback.de/telekom/images/produkte/Smartphones/samsung-galaxy-s10-prism-white-290x340.png",
+        "alt": "bla"
+      },
+      "colors": [
+        {
+          "name": "purple",
+          "code": "purple",
+          "storages": [
+            {
+              "amount": 64,
+              "unit": "GB",
+              "groupId": 41
+            },
+            {
+              "amount": 128,
+              "unit": "GB",
+              "groupId": 42
+            },
+            {
+              "amount": 256,
+              "unit": "GB",
+              "groupId": 43
+            }
+          ]
+        },
+        {
+          "name": "salmon",
+          "code": "salmon",
+          "storages": [
+            {
+              "amount": 128,
+              "unit": "GB",
+              "groupId": 44
+            },
+            {
+              "amount": 256,
+              "unit": "GB",
+              "groupId": 45
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Samsung Galaxy S10+",
+      "images": {
+        "image_small": "https://telekom.payback.de/telekom/images/produkte/Smartphones/samsung-galaxy-s10plus-ceramic-white-290x340.png",
+        "image_medium": "https://telekom.payback.de/telekom/images/produkte/Smartphones/samsung-galaxy-s10plus-ceramic-white-290x340.png",
+        "image_big": "https://telekom.payback.de/telekom/images/produkte/Smartphones/samsung-galaxy-s10plus-ceramic-white-290x340.png",
+        "alt": "bla"
+      },
+      "colors": [
+        {
+          "name": "red",
+          "code": "red",
+          "storages": [
+            {
+              "amount": 64,
+              "unit": "GB",
+              "groupId": 51
+            },
+            {
+              "amount": 128,
+              "unit": "GB",
+              "groupId": 52
+            },
+            {
+              "amount": 256,
+              "unit": "GB",
+              "groupId": 53
+            }
+          ]
+        },
+        {
+          "name": "blue",
+          "code": "blue",
+          "storages": [
+            {
+              "amount": 128,
+              "unit": "GB",
+              "groupId": 54
+            },
+            {
+              "amount": 256,
+              "unit": "GB",
+              "groupId": 55
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "nav": [
+    {
+      "id": 1,
+      "target_id": 3,
+      "parent_id": null,
+      "left": 1,
+      "right": 10,
+      "depth": 0,
+      "slug": "test-1",
+      "is_index": true,
+      "identifier": "test-1-id",
+      "hidden": false,
+      "meta_data": null,
+      "children": [
+        {
+          "id": 2,
+          "target_id": 3,
+          "parent_id": 1,
+          "left": 2,
+          "right": 9,
+          "depth": 1,
+          "slug": "sub-1-1",
+          "is_index": false,
+          "identifier": "test-1-slug-1",
+          "hidden": false,
+          "meta_data": null,
+          "children": []
+        },
+        {
+          "id": 3,
+          "target_id": 3,
+          "parent_id": 1,
+          "left": 3,
+          "right": 8,
+          "depth": 1,
+          "slug": "sub-1-2",
+          "is_index": true,
+          "identifier": "test-1-slug-2",
+          "hidden": false,
+          "meta_data": null,
+          "children": [
+            {
+              "id": 5,
+              "target_id": 3,
+              "parent_id": 3,
+              "left": 5,
+              "right": 6,
+              "depth": 2,
+              "slug": "sub-1-2-1",
+              "is_index": false,
+              "identifier": "test-1-slug-1-2-1",
+              "hidden": false,
+              "meta_data": null,
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "target_id": 3,
+          "parent_id": 1,
+          "left": 4,
+          "right": 7,
+          "depth": 1,
+          "slug": "sub-1-3",
+          "is_index": false,
+          "identifier": "test-1-slug-3",
+          "hidden": true,
+          "meta_data": null,
+          "children": []
+        }
+      ]
+    }
+  ]
 }
