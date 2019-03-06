@@ -39,6 +39,7 @@
     {
       "id": 1,
       "name": "Apple iPhone X",
+      "slug": "apple-iphone-x",
       "images": {
         "image_small": "https://telekom.payback.de/telekom/images/produkte/Smartphones/apple-iphone-x-spacegrey-290x340.png",
         "image_medium": "https://telekom.payback.de/telekom/images/produkte/Smartphones/apple-iphone-x-spacegrey-290x340.png",
@@ -88,6 +89,7 @@
     {
       "id": 2,
       "name": "Apple iPhone XS",
+      "slug": "apple-iphone-xs",
       "images": {
         "image_small": "https://telekom.payback.de/telekom/images/produkte/Smartphones/iphone-xs-spacegrey-290x340.png",
         "image_medium": "https://telekom.payback.de/telekom/images/produkte/Smartphones/iphone-xs-spacegrey-290x340.png",
@@ -137,6 +139,7 @@
     {
       "id": 3,
       "name": "Apple iPhone XR",
+      "slug": "apple-iphone-xr",
       "images": {
         "image_small": "https://telekom.payback.de/telekom/images/produkte/Smartphones/apple-iphone-xr-blue-290x340.png",
         "image_medium": "https://telekom.payback.de/telekom/images/produkte/Smartphones/apple-iphone-xr-blue-290x340.png",
@@ -186,6 +189,7 @@
     {
       "id": 4,
       "name": "Samsung Galaxy S10",
+      "slug": "samsung-galaxy-s10",
       "images": {
         "image_small": "https://telekom.payback.de/telekom/images/produkte/Smartphones/samsung-galaxy-s10-prism-white-290x340.png",
         "image_medium": "https://telekom.payback.de/telekom/images/produkte/Smartphones/samsung-galaxy-s10-prism-white-290x340.png",
@@ -235,6 +239,7 @@
     {
       "id": 5,
       "name": "Samsung Galaxy S10+",
+      "slug": "samsung-galaxy-s10+",
       "images": {
         "image_small": "https://telekom.payback.de/telekom/images/produkte/Smartphones/samsung-galaxy-s10plus-ceramic-white-290x340.png",
         "image_medium": "https://telekom.payback.de/telekom/images/produkte/Smartphones/samsung-galaxy-s10plus-ceramic-white-290x340.png",
