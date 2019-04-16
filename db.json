@@ -378,23 +378,58 @@
   "options": [
     {
       "id": 1,
-      "name": "StreamOn"
+      "name": "StreamOn",
+      "images": {
+        "image_small": "https://telekom.payback.de/responsive-telekom/images/options/festnetz/magenta-sport-mit-sky-sport-96px.png",
+        "image_medium": "https://telekom.payback.de/responsive-telekom/images/options/festnetz/magenta-sport-mit-sky-sport-96px.png",
+        "image_big": "https://telekom.payback.de/responsive-telekom/images/options/festnetz/magenta-sport-mit-sky-sport-96px.png",
+        "alt": "bla"
+      },
+      "description": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam"
     },
     {
       "id": 2,
-      "name": "Installations Paket"
+      "name": "Installations Paket",
+      "images": {
+        "image_small": "https://telekom.payback.de/responsive-telekom/images/options/festnetz/magenta-sport-mit-sky-sport-96px.png",
+        "image_medium": "https://telekom.payback.de/responsive-telekom/images/options/festnetz/magenta-sport-mit-sky-sport-96px.png",
+        "image_big": "https://telekom.payback.de/responsive-telekom/images/options/festnetz/magenta-sport-mit-sky-sport-96px.png",
+        "alt": "bla"
+      },
+      "description": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam"
     },
     {
       "id": 3,
-      "name": "MagentaTV Big"
+      "name": "MagentaTV Big",
+      "images": {
+        "image_small": "https://telekom.payback.de/responsive-telekom/images/options/festnetz/magenta-sport-mit-sky-sport-96px.png",
+        "image_medium": "https://telekom.payback.de/responsive-telekom/images/options/festnetz/magenta-sport-mit-sky-sport-96px.png",
+        "image_big": "https://telekom.payback.de/responsive-telekom/images/options/festnetz/magenta-sport-mit-sky-sport-96px.png",
+        "alt": "bla"
+      },
+      "description": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam"
     },
     {
       "id": 4,
-      "name": "StreamOn Gaming"
+      "name": "StreamOn Gaming",
+      "images": {
+        "image_small": "https://telekom.payback.de/responsive-telekom/images/options/festnetz/magenta-sport-mit-sky-sport-96px.png",
+        "image_medium": "https://telekom.payback.de/responsive-telekom/images/options/festnetz/magenta-sport-mit-sky-sport-96px.png",
+        "image_big": "https://telekom.payback.de/responsive-telekom/images/options/festnetz/magenta-sport-mit-sky-sport-96px.png",
+        "alt": "bla"
+      },
+      "description": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam"
     },
     {
       "id": 5,
-      "name": "Data S"
+      "name": "Data S",
+      "images": {
+        "image_small": "https://telekom.payback.de/responsive-telekom/images/options/festnetz/magenta-sport-mit-sky-sport-96px.png",
+        "image_medium": "https://telekom.payback.de/responsive-telekom/images/options/festnetz/magenta-sport-mit-sky-sport-96px.png",
+        "image_big": "https://telekom.payback.de/responsive-telekom/images/options/festnetz/magenta-sport-mit-sky-sport-96px.png",
+        "alt": "bla"
+      },
+      "description": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam"
     }
   ]
 }
