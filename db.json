@@ -249,56 +249,6 @@
           ]
         }
       ]
-    },
-    {
-      "id": 5,
-      "name": "Samsung Galaxy S10+",
-      "slug": "samsung-galaxy-s10+",
-      "images": {
-        "image_small": "https://telekom.payback.de/telekom/images/produkte/Smartphones/samsung-galaxy-s10plus-ceramic-white-290x340.png",
-        "image_medium": "https://telekom.payback.de/telekom/images/produkte/Smartphones/samsung-galaxy-s10plus-ceramic-white-290x340.png",
-        "image_big": "https://telekom.payback.de/telekom/images/produkte/Smartphones/samsung-galaxy-s10plus-ceramic-white-290x340.png",
-        "alt": "bla"
-      },
-      "colors": [
-        {
-          "name": "red",
-          "code": "red",
-          "storages": [
-            {
-              "amount": 64,
-              "unit": "GB",
-              "groupId": 51
-            },
-            {
-              "amount": 128,
-              "unit": "GB",
-              "groupId": 52
-            },
-            {
-              "amount": 256,
-              "unit": "GB",
-              "groupId": 53
-            }
-          ]
-        },
-        {
-          "name": "blue",
-          "code": "blue",
-          "storages": [
-            {
-              "amount": 128,
-              "unit": "GB",
-              "groupId": 54
-            },
-            {
-              "amount": 256,
-              "unit": "GB",
-              "groupId": 55
-            }
-          ]
-        }
-      ]
     }
   ],
   "nav": [
