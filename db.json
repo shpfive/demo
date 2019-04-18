@@ -261,7 +261,8 @@
         "image_big": "https://telekom.payback.de/responsive-telekom/images/options/festnetz/magenta-sport-mit-sky-sport-96px.png",
         "alt": "bla"
       },
-      "description": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam"
+      "description": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam",
+      "type": "hardware"
     },
     {
       "id": 2,
@@ -272,7 +273,8 @@
         "image_big": "https://telekom.payback.de/responsive-telekom/images/options/festnetz/magenta-sport-mit-sky-sport-96px.png",
         "alt": "bla"
       },
-      "description": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam"
+      "description": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam",
+      "type": "hardware"
     },
     {
       "id": 3,
@@ -283,7 +285,8 @@
         "image_big": "https://telekom.payback.de/responsive-telekom/images/options/festnetz/magenta-sport-mit-sky-sport-96px.png",
         "alt": "bla"
       },
-      "description": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam"
+      "description": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam",
+      "type": "tv_option"
     },
     {
       "id": 4,
@@ -294,7 +297,8 @@
         "image_big": "https://telekom.payback.de/responsive-telekom/images/options/festnetz/magenta-sport-mit-sky-sport-96px.png",
         "alt": "bla"
       },
-      "description": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam"
+      "description": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam",
+      "type": "option"
     }
   ]
 }
